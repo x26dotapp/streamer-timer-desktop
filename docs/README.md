@@ -1,0 +1,1 @@
+📄 Setup Guide: /docs/SETUP_GUIDE.md
